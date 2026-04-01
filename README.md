@@ -20,7 +20,7 @@ This project involves:
 
 ## 📊 Dashboard
 
-dadasddsdssdsdss
+![Top10_Neighbourhood](Example_Visualize/Top10_Neighbourhood.png)
 
 
 ### **Key Features & Insights:**
